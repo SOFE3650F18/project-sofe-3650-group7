@@ -6,7 +6,7 @@
 - 100620049 Alexander Hurst
 
 
-**Project Due:** December 5 2018
+**Project Due:** December 2 2018
 
 **Instructor:** Professor Ramiro Liscano
 
