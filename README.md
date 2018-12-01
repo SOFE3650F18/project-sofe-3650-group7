@@ -17,10 +17,11 @@
 ---
 ## Table of contents
 1. [Project Description](#project-description)
-  1. [Objective](#objective)
-  2. [ADD Process](#add-process)
-  3. [Deliverables](#deliverables)
+   1. [Objective](#objective)
+   2. [ADD Process](#add-process)
+   3. [Deliverables](#deliverables)
 2. [Grading Scheme](#grading-scheme)
+3. [Contributions](https://github.com/SOFE3650F18/project-sofe-3650-group7/blob/master/Contributions.md)
 
 ---
 ## Project Description
