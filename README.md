@@ -21,7 +21,12 @@
    2. [ADD Process](#add-process)
    3. [Deliverables](#deliverables)
 2. [Grading Scheme](#grading-scheme)
-3. [Contributions](https://github.com/SOFE3650F18/project-sofe-3650-group7/blob/master/Contributions.md)
+3. [Contributions](https://github.com/SOFE3650F18/project-sofe-3650-group7/blob/master/competencies.md)
+4. [Introduction](https://github.com/SOFE3650F18/project-sofe-3650-group7/blob/master/ADD%20Introduction.pdf)
+5. [Iteration 1](https://github.com/SOFE3650F18/project-sofe-3650-group7/tree/master/iteration1)
+6. [Iteration 2](https://github.com/SOFE3650F18/project-sofe-3650-group7/tree/master/Iteration2)
+7. [Iteration 3](https://github.com/SOFE3650F18/project-sofe-3650-group7/tree/master/Iteration3)
+8. [References](https://github.com/SOFE3650F18/project-sofe-3650-group7/blob/master/references.md)
 
 ---
 ## Project Description
