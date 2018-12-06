@@ -14,6 +14,8 @@
 
 ##### project-sofe-3650-group7 created by GitHub Classroom
 
+Please note that all issues and projects are now marked as closed.
+
 ---
 ## Table of contents
 1. [Project Description](#project-description)
